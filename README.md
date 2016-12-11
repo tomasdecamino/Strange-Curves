@@ -5,4 +5,4 @@ Un excelente explicación de como se generan esas curcvas la pueden encontrar en
 
 # Algunos patrones
 
-<img src="patterns.jpg" width="300">
+<img src="patterns.jpg" width="500">
