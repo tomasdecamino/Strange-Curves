@@ -1,7 +1,7 @@
 // @author: Tomas de Camino Beck
-// V2
+// V2: without arrrays
 
-int n =1000; //number of points
+int n =400; //number of points
 int len=300; //radius
 int m = 1;  //multiplier
 
